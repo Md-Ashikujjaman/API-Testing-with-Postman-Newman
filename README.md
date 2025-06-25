@@ -148,6 +148,21 @@ After running with `htmlextra`, an HTML report is generated in your terminal or 
 
 ---
 
+## 📸 Newman HTML Report Summary
+
+Newman Run Dashboard Summary:
+![Total Tequest](https://github.com/Md-Ashikujjaman/API-Testing-with-Postman-Newman/blob/cef00b8ed06faecc0831600bbb6008467b270dcf/images/Newman_Run_Dashboard_Summary.PNG)
+
+
+Total Tequest:
+![Total Request](https://github.com/Md-Ashikujjaman/API-Testing-with-Postman-Newman/blob/cef00b8ed06faecc0831600bbb6008467b270dcf/images/Total_request.PNG)
+
+Iteration: 1
+![Iteration: 1](https://github.com/Md-Ashikujjaman/API-Testing-with-Postman-Newman/blob/cef00b8ed06faecc0831600bbb6008467b270dcf/images/Request_1.PNG)
+![Iteration: 1](https://github.com/Md-Ashikujjaman/API-Testing-with-Postman-Newman/blob/cef00b8ed06faecc0831600bbb6008467b270dcf/images/Request_1.2.PNG)
+
+---
+
 ## 🧩 Troubleshooting
 
 ### 🚫 Error: “You are not authorized to send a request through the cloud agent”
